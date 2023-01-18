@@ -1,0 +1,15 @@
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/bin/Debug/net7.0/Code Lou Practice
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/bin/Debug/net7.0/Code Lou Practice.deps.json
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/bin/Debug/net7.0/Code Lou Practice.runtimeconfig.json
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/bin/Debug/net7.0/Code Lou Practice.dll
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/bin/Debug/net7.0/Code Lou Practice.pdb
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.csproj.AssemblyReference.cache
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.AssemblyInfoInputs.cache
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.AssemblyInfo.cs
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.csproj.CoreCompileInputs.cache
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.dll
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/refint/Code Lou Practice.dll
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.pdb
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/Code Lou Practice.genruntimeconfig.cache
+/Users/xcastudent/Projects/Code Lou Practice/Code Lou Practice/obj/Debug/net7.0/ref/Code Lou Practice.dll
